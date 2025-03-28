@@ -28,7 +28,7 @@ Forecast future weather trends using the **Global Weather Repository** dataset, 
 
 ## 🎥 Demo Video
 
-👉 [Click here to watch the 2–3 minute project demo](#)  
+👉 [Click here to watch the 3 minute project demo](https://youtu.be/S-vBNv1W6i4?si=dK8WGP6wq1DSzCkH)  
 
 ---
 
